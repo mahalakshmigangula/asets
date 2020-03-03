@@ -4,10 +4,12 @@ class portfolio:
     def invest:
         invest=[100,1000,10000]
         sum(invest)
-        return sum
+        invested=sum
         
     def divest:
         divest=[20,30,50]
+        sum(divest)
+        divested=sum
         
         
     def tot_assets:
